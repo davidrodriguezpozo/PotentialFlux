@@ -6,3 +6,4 @@ else
     dzdx=(2*m*(p-x))/(1-p^2);
 end
 
+end
