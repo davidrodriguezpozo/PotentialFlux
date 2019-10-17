@@ -1,0 +1,11 @@
+clear all
+clc 
+
+N = 10; %Número de divisions
+L = 1; % lo
+p = 0.4;
+m = 0.02;
+a = 5;
+
+[X Xc Xp Nc] = discretization(N,L,a,m,p);
+
