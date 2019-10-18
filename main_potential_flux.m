@@ -2,7 +2,7 @@ clear all
 clc 
 
 %% Input data
-d.N = 10; %Number of divisions
+d.N = 10; %Number of divisions (panels)
 d.L = 1; %Chord
 d.p = 0.4; % x coordinate of maximum chamber
 d.m = 0.02; % maximum chamber
